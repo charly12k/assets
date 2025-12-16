@@ -16,7 +16,7 @@ This GitHub repository serves as the official project site:
 [https://github.com/charly12k/AlwaysToken](https://github.com/charly12k/AlwaysToken)
 
 ## 📧 Contact
-Email: `alwaystoken.project@gmail.com`
+Email: `charlykyzer77@gmail.com`
 
 ## 👥 Team
 Founder: Charly Kyzer  
